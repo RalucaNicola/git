@@ -1,1 +1,4 @@
-print("hello python")
+def sayHello(name):
+  print("hello " + name)
+
+sayHello("Raluca")
